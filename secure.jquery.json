@@ -1,0 +1,38 @@
+
+{
+"name": "secure",
+"title": "jQuery Secure",
+"description": "jQuery plugin for securing webpages with pins or numeric keypads to replace passwords.",
+"keywords": [
+"pin",
+"pins",
+"panel",
+"keypad",
+"numeric keypad",
+],
+"version": "1.0.0",
+"author": {
+"name": "Akinjiola Toni",
+"url": "http://www.akinjiolatoni.com"
+},
+"maintainers": [
+{
+"name": "Akinjiola Toni",
+"email": "akinjiolatoni@live.com",
+"url": "https://ng.linkedin.com/pub/toni-akinjiola/94/a7a/42b/"
+}
+],
+"licenses": [
+{
+"type": "MIT",
+"url": "https://github.com/Akinjiola/jquery-whatever/LICENSE"
+}
+],
+"bugs": "https://github.com/Akinjiola/jQuery-Secure/issues",
+"homepage": "https://github.com/Akinjiola/jQuery-Secure",
+"docs": "https://github.com/Akinjiola/jQuery-Secure",
+"download": "https://github.com/Akinjiola/jQuery-Secure",
+"dependencies": {
+"jquery": ">=1.5"
+}
+}

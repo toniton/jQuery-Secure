@@ -105,7 +105,7 @@
 							'<div data-secure class="secure-panel" z-index="99999">'+
 							'<table data-secure class="secure-table">'+
 							scrambled+
-							'<tr><td><small class="secure-show-code"><a href="#" id="showcode">Show Code</a></small></td></tr>'+
+							'<tr><td><small class="secure-show-code"><a href="javascript:;" id="showcode">Show Code</a></small></td></tr>'+
 							'</table>'+
 						'</div></div>');
 				current.find('.secure-input,.secure-side').click(function(){
